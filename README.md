@@ -16,3 +16,5 @@ evaluate that or restart emacs and now you can load the theme!
 <kbd>M-x</kbd> <kdb>load-theme</kdb> <kbd>RET</kbd> <kbd>pale-rose</kbd> <kbd>RET</kbd>
 
 and omg now it looks like this:
+
+![screenshot](./screenshot.png)]
