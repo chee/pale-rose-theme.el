@@ -1,0 +1,4 @@
+#!/bin/sh
+theme=pale-rose
+cp ~/.emacs.d/themes/$theme-theme.el .
+cp ~/notebook/config/emacs/themes/$theme.org .
